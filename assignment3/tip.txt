@@ -1,0 +1,3 @@
+
+run JSMappreduce python locally
+https://class.coursera.org/datasci-001/forum/thread?thread_id=2707
